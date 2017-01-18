@@ -1,6 +1,6 @@
 ## Andela Bootcamp Day1
 
-#Object Oriented Programing 
+#Object Oriented Programming 
 ##The Body Mass Index Hospital Problem
 
 	This is a real world hospital problem modelled using Object Oriented Programming
@@ -13,5 +13,5 @@
 		and The Patient subclass containes disease as subclass
 
 	Results:
-	    The program can generate name, BMI and status of body weight if the get_bmi function is called.
+	    The program can generate name, BMI and status of body weight if the get_bmi() function is called.
 
