@@ -8,9 +8,9 @@
 	This program can also calculate BMI (Body Mass Index)
 
 	Args:
-		Provide firstname, lastname, height, weight and age for parent (super class)
-		Other subclass contain specific properties like Speciality and staff_iD FOR Doctor
-		and The Patient subclass containes disease as subclass
+		Provide firstname, lastname, height, weight and age and 
+		specific properties like speciality and staff_iD for Doctors and diesease for patients
+		
 
 	Results:
 	    The program can generate name, BMI and status of body weight if the get_bmi() function is called.
